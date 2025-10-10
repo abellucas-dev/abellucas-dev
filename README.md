@@ -35,7 +35,7 @@ Sou um desenvolvedor Python apaixonado pelo universo dos dados. Meu objetivo é 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abellucas-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abellucas-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 <br/>

@@ -1,7 +1,7 @@
 # Olá! Meu nome é Abel Lucas Cvalcante de Melo 👋
 
 <a href="https://github.com/abellucas-dev/meu-portfolio-dev">
-  <img align="center" src="[LINK PARA UM BANNER/GIF SEU, TALVEZ COM ÍCONES DE PYTHON E DADOS]" alt="Banner do Perfil">
+  <img align="center" src="https://github.com/abellucas-dev/assets/blob/main/Gemini_Generated_Image_gqnihrgqnihrgqni.png" alt="Banner do Perfil">
 </a>
 <br/>
 

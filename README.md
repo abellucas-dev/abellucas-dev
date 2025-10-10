@@ -12,7 +12,7 @@ Sou um desenvolvedor Python apaixonado pelo universo dos dados. Meu objetivo é 
 - 🎓 Cursando **Sistemas da Informação** no **Instituto Federal de Alagoas (IFAL)**.
 - 🌱 Atualmente aprendendo e aprofundando em: **Apache Spark, Airflow, Docker e Cloud (AWS/GCP)**.
 - 👯 Busco oportunidades para colaborar em **projetos de ETL, análise de dados e automação com Python**.
-- 📫 Contate-me: **(mailto:abel.lucas.dev@gmail.com)**
+- 📫 Contate-me: **(abel.lucas.dev@gmail.com)**
 
 <br/>
 

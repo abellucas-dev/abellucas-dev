@@ -1,4 +1,4 @@
-# Olá! Meu nome é Abel Lucas Cvalcante de Melo 👋
+# Olá! Meu nome é Abel Lucas Cavalcante de Melo 👋
 
 <a href="https://github.com/abellucas-dev/meu-portfolio-dev">
   <img align="center" src="https://github.com/abellucas-dev/assets/blob/main/Gemini_Generated_Image_gqnihrgqnihrgqni.png" alt="Banner do Perfil">
